@@ -10,7 +10,8 @@ Delay (-d) - Amount of time in seconds to delay the program before starting.
         This is useful for if you need to set up the camera and get out of the way before execution.
 
 Min Area (-m) - Minimum area in pixels difference to be considered actual motion. 
-           This effects the overall sensitivity of the motion detector. Lowering the area will make the program much more likely to detect motion. Should be used with caution as setting it too low will have the camera become overly sensitive to things such as background noise or scratches.
+           This effects the overall sensitivity of the motion detector. Lowering the area will make the program much more likely to detect motion. 
+           Should be used with caution as setting it too low will have the camera become overly sensitive to things such as background noise or scratches.
 
 Thresh (-t) - The level of threshold intensity. 
          This can be useful for tweaking the program to run under different lighting conditions. 
