@@ -22,3 +22,6 @@ Video Path (-v) - Path to a video file you would like to run the program with.
 
 To run the main file in cmd:
 python 2main.py -t 90 -v "C:\Users\hi\Desktop\New folder (2)\night.mov"
+
+
+For more cam video:  "http://backgroundmodelschallenge.eu/"
