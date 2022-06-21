@@ -24,4 +24,4 @@ To run the main file in cmd:
 python 2main.py -t 90 -v "C:\Users\hi\Desktop\New folder (2)\night.mov"
 
 
-For more cam video:  "http://backgroundmodelschallenge.eu/"
+For more cctv videos:  "http://backgroundmodelschallenge.eu/"
